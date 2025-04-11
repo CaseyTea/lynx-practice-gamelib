@@ -9869,7 +9869,7 @@ __webpack_require__.r(__webpack_exports__);
   if (true) {
     (function() {
       var localsJsonString = undefined;
-      // 1744394715043
+      // 1744396431232
       var cssReload = __webpack_require__("(react:background)/./node_modules/@lynx-js/css-extract-webpack-plugin/runtime/hotModuleReplacement.cjs")(module.id, {}, "");
       // only invalidate when locals change
       if (
@@ -9984,7 +9984,7 @@ __webpack_require__.hu = (chunkId) => ('' + chunkId + '.' + __webpack_require__.
 })();
 // webpack/runtime/get_full_hash
 (() => {
-__webpack_require__.h = () => ("563f1a328644d9ae")
+__webpack_require__.h = () => ("be472d705fe27dfc")
 })();
 // webpack/runtime/get_main_filename/update manifest
 (() => {
